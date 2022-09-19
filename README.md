@@ -6,3 +6,5 @@ Hi I'm Lay Channhan form cambodai .
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lchannhan&hide=contribs,prs)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lchannhan&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lchannhan&show_icons=true&theme=radical)
