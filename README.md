@@ -8,7 +8,7 @@
  
 </h3>
 
-- <a href="https://twitter.com/lchannhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lchannhan" height="30" width="40" /></a>  (https://salafree.blogspot.com/)
+
 
 
 <h3 align="center">Connect with me:</h3>
