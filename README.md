@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lay Channhan</h1>
-<h2 align="center">A passionate frontend developer from Cambodia </h2>
+<h2 align="center">A Website developer from Cambodia </h2>
 
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
