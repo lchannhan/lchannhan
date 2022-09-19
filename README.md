@@ -3,27 +3,11 @@
 <h1 align="center">Hi 👋, I'm Lay Channhan</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lchannhan)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lchannhan)](https://github.com/anuraghazra/github-readme-stats)</h1>
 
 
 
 - 🔭 I’m currently working on [Mathematic](https://salafree.blogspot.com/)
-
-- 🌱 I’m currently learning **han han**
-
-- 👯 I’m looking to collaborate on [Hanzer](https://salafree.blogspot.com/)
-
-- 🤝 I’m looking for help with [Lay](https://salafree.blogspot.com/)
-
-- 👨‍💻 All of my projects are available at [https://salafree.blogspot.com/](https://salafree.blogspot.com/)
-
-- 📝 I regularly write articles on [https://salafree.blogspot.com/](https://salafree.blogspot.com/)
-
-- 💬 Ask me about **zer zer**
-
-- 📫 How to reach me **Han@gmail.com**
-
-- 📄 Know about my experiences [https://salafree.blogspot.com/](https://salafree.blogspot.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
