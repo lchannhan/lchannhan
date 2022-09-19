@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Lay Channhan</h1>
-<h3 align="center">A passionate frontend developer from Cambodia 
+<h3 align="center">A passionate frontend developer from Cambodia </h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lchannhan)](https://github.com/anuraghazra/github-readme-stats)
 
-</h3>
 
 - 🔭 I’m currently working on [Mathematic](https://salafree.blogspot.com/)
 
