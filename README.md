@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Lay Channhan from Cambodia</h1>
+<h1 align="center">Hi 👋, I'm Lay Channhan from Cambodia.</h1>
 
 <h2 align="center">Connect With Me:</h2>
 <p align="center">
