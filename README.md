@@ -17,7 +17,5 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lchannhan&show_icons=true&theme=radical&hide_border=true" alt="Lay Channhan's Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lchannhan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Lay Channhan's Stats" />
 </p>
